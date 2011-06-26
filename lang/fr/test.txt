@@ -1,0 +1,3 @@
+====== Test de DokuTeXit ======
+
+En appuyant sur le bouton ci-dessous vous pourrez tester la generation des PDF sur votre dokuwiki. Vous pouvez ajouter dans la section ''Footer'' une commande LaTeX qui n'existe pas (ex: ''\mybreakup'' ) pour voir les log LaTeX et avoir access aux sources.

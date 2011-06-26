@@ -1,0 +1,64 @@
+\pagestyle{fancy}%
+\renewcommand{\headrulewidth}{0.1pt}
+\renewcommand{\footrulewidth}{0pt}
+\renewcommand{\chaptermark}[1]{%
+	\markboth{\chaptername\ \thechapter.\ #1}{}}
+
+\renewcommand{\sectionmark}[1]{%
+	\markright{#1}{}}
+
+\fancypagestyle{plain}{%
+\fancyhf{}
+\fancyfoot[R]{\thepage/\pageref{LastPage}}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}}
+\fancyhf{}
+\fancyhead[L]{\rightmark}
+\fancyhead[R]{\leftmark}
+\fancyfoot[R]{\thepage/\pageref{LastPage}}
+\renewcommand{\headrulewidth}{0.1pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\definecolor{codegray}{gray}{.95}
+\lstset{language=C,
+	numbers=left,
+	tabsize=2,
+	basicstyle=\scriptsize,
+	stringstyle=\textrm,
+	showstringspaces=false,
+	frame=none,
+	xleftmargin=3pt,
+	backgroundcolor=\color{codegray}}
+
+\newcommand{\settexitref}[2]{(\ref{#1}p\pageref{#1})}
+\newcommand{\dokutitlelevelone}[1]{\chapter{#1}}
+\newcommand{\dokutitleleveltwo}[1]{\section{#1}}
+\newcommand{\dokutitleleveltree}[1]{\subsection{#1}}
+\newcommand{\dokutitlelevelfour}[1]{\subsubsection{#1}}
+\newcommand{\dokutitlelevelfive}[1]{\paragraph{#1}}
+\newcommand{\dokufootnote}[1]{\footnote{#1}}
+\newcommand{\dokufootmark}[1]{\footnotemark[#1]}
+\newcommand{\dokubold}[1]{\textbf{#1}}
+\newcommand{\dokuitalic}[1]{\textsl{#1}}
+\newcommand{\dokumonospace}[1]{\texttt{#1}}
+\newcommand{\dokuunderline}[1]{\underline{#1}}
+\newcommand{\dokuoverline}[1]{\sout{#1}}
+\newcommand{\dokusupscript}[1]{\textsuperscript{#1}}
+\newcommand{\dokusubscript}[1]{$_{#1}$}
+\newcommand{\dokuhline}{\line(1,0){400}}
+\newcommand{\dokulabel}[1]{\label{#1}}
+\newcommand{\dokuitem}{\item}
+\newcommand{\dokuquoting}{\textbar}
+\newcommand{\dokutabularwidth}{\textwidth}
+\newcommand{\dokusupertabularheadbreak}{\small\sl continued from previous page}
+\newcommand{\dokusupertabulartailbreak}{\small\sl continued on next page}
+\newcommand{\dokuheadingstyle}[1]{\textbf{#1}}
+\definecolor{dokuheadingcolor}{rgb}{0,0,0.60}
+\newcommand{\dokubackground}[1]{%
+\AddToShipoutPicture{%
+  \AtTextCenter{%
+    \makebox(0,0)[c]{\resizebox{\textwidth}{!}{%
+      \rotatebox{25}{\textsf{\textbf{\textcolor[gray]{0.90}{#1}}}}}}%
+  }%
+ }%
+}

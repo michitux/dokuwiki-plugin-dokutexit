@@ -1,0 +1,3 @@
+===== DokuTeXit Sonderzeichen  =====
+In diesen Abschnitt werden Sonderzeichen und Aliase zwischen Dokuwiki und Latex definiert. Wichtig ist die Reihenfolge: Erst das Sonderzeichen, dann die Latex Syntax.
+ 

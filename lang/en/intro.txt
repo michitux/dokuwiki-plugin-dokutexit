@@ -1,0 +1,9 @@
+====== DokuTeXit Manager ======
+
+Use this fields to control the settings of your DokuTeXit configuration.  
+For help on individual settings refer to [[http://danjer.doudouke.org/tech/dokuTeXit]].
+For more details about this plugin see [[http://danjer.doudouke.org/tech/dokuTeXit]].
+
+Remember to press the **SAVE** button before leaving this page otherwise your changes will be lost.
+
+DokuTeXit generate a latex file from dokuwiki format. You can change layout by this fields. 

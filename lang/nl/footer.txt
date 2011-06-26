@@ -1,0 +1,4 @@
+===== DokuTeXit Footer  =====
+
+Het ''Footer'' gedeelte regelt het einde van de LaTeX file. Je kunt hier de index (table of contents) hier plaatsen. \\
+De laatste regel **MOET ZIJN**:  '''\end{document}'''

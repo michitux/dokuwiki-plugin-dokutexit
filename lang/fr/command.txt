@@ -1,0 +1,5 @@
+===== DokuTeXit Command  =====
+
+La partie ''Command'' controle les commandes qui sont utilisees par //texit// lors de la generation du fichier LaTeX.
+Vous pouvez y rajouter de nouvelles commandes LaTeX que vous pourrez utiliser dans votre document.
+

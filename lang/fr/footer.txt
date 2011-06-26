@@ -1,0 +1,3 @@
+===== DokuTeXit Footer  =====
+
+La partie ''Footer'' controle la fin du fichier LaTeX. Vous pouver y definir par example la table des matieres. La derniere ligne de ce champs **doit imperativement etre** '''\end{document}'''

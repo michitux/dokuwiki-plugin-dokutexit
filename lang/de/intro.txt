@@ -1,0 +1,9 @@
+====== DokuTeXit Manager ======
+
+In den einzelnen Abschnitten können grundlegende Einstellungen für DokuTeXit vorgenommen weden.
+Hilfe und Informationen zu Details der  Einstellungsmöglichkeiten sind unter [[http://danjer.doudouke.org/tech/dokuTeXit]] zu finden.
+
+Vor verlassen dieser Seite müssen Änderungen mit der Schaltfläche **Speichern** gesichert werden.
+
+Mit DokuTeXit können Seiten aus Dokuwiki mittels LaTeX als PDF erzeugt weden. Über die Einstellungsmöglichkeiten in diesem Bereich kann weitgehendst das Layout der Dokumente beeinflusst werden. 
+

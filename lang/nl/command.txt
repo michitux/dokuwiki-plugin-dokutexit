@@ -1,0 +1,3 @@
+===== Dokutexit Command  =====
+
+Het  ''Command'' gedeelte regelt LaTeX opdrachten die //TeXit// gebruikt om een LaTeX file te genereren. Je kunt nieuwe LaTeX opdrachten in je document einvoegen.

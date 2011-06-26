@@ -1,0 +1,3 @@
+===== DokuTeXit Fuß  =====
+
+Der Abschnitt ''Fuß'' steuert das Ende der LaTeX Datei. Zum Beispiel könnte hier ein Inhalsverzeichniss (TOC) definiert werden. Die letzte Zeile in diesem Feld **MUSS** '''\end{document}''' sein.

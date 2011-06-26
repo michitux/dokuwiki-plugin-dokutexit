@@ -1,0 +1,10 @@
+====== Gestionnaire de configuration de DokuTeXit ======
+
+Utilisez cette page pour contrôler les paramètres de votre installation de Dokuwiki.
+Pour de l'aide sur chaque paramètre, reportez vous à [[http://danjer.doudouke.org/tech/dokuTeXit]].
+Pour d'autres détails concernant ce plugin, reportez vous à [[http://danjer.doudouke.org/tech/dokuTeXit]].
+
+N'oubliez pas d'utiliser le bouton **Sauver** avant de quitter cette page, sinon vos modifications
+seront perdues.
+
+

@@ -1,0 +1,3 @@
+===== DokuTeXit Footer  =====
+
+The ''Footer'' part control the end of the LaTeX file. You may want define table of contents here. Last line of this field **MUST BE** '''\end{document}'''

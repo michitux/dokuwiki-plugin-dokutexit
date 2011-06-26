@@ -1,0 +1,5 @@
+===== DokuTeXit Begin/Header  =====
+
+La partie ''Begin/Header'' controle tout ce qui est avant '''\begin{document}'''.
+Vous pouvez y rajouter de nouveaux package LaTeX que vous pourrez utiliser dans votre document.
+

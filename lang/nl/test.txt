@@ -1,0 +1,5 @@
+======  Dokutexit self test ======
+
+Klik op de ''Generate'' knop om het genereren van de PDF-file te testen.\\
+Voeg in ''Footer'' een Latex commando toe dat niet bestaat (bijv.: ''\mybreakup''), dan stopt het proces.\\
+Je kunt dan de Latex logs bekijken en de Tex source file downloaden.

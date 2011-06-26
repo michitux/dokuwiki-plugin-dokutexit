@@ -1,0 +1,5 @@
+===== DokuTeXit Begin/Header  =====
+
+Het Begin/Header gedeelte regelt alles vóór '''\begin{document}'''\\
+Je kunt hier Latex pakketten toevoegen.
+

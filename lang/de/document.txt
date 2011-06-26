@@ -1,0 +1,5 @@
+===== DokuTeXit Dokument  =====
+
+Dieser Abschnitt steuert alles nach dem LaTex-Kommando '''\begin{document}''' .
+Hier kann unter anderem das Layout des gesamten Dokumentes beeinflust werden, z.B. wo das Inhaltsverzeichniss erscheinen soll.
+

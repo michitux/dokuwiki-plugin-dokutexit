@@ -1,0 +1,22 @@
+\documentclass[twoside,a4paper,10pt]{report}
+\usepackage[german]{babel} %% Use your own babel language
+\usepackage[top=3cm,bottom=3cm,left=2.5cm,right=2.5cm]{geometry}
+\usepackage{ucs}
+\usepackage[utf8x]{inputenc}
+\usepackage{pslatex}
+\usepackage{hyperref}
+\usepackage{graphicx}
+\usepackage{tabularx}
+\usepackage{supertabular}
+\usepackage{pdflscape} %% Used for very big table
+\usepackage{moreverb}
+\usepackage{color}
+\usepackage{listings}
+\usepackage{lastpage}
+\usepackage{fancyhdr}
+\usepackage{ulem}
+\usepackage{textcomp}
+\usepackage{wasysym}
+\usepackage{wrapfig} %%Usefull for image 
+\usepackage{fguill} %%Use this package for guillemot[left|right] useless with babel set to french
+\usepackage{eso-pic} %% Background

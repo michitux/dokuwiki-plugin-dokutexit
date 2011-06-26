@@ -1,0 +1,3 @@
+===== DokuTeXit Document  =====
+
+La partie ''Document'' controle ce qu'il y a juste apres '''\begin{document}'''. Vous pouvez definir, comment positionner la page de garde, la table de matiere, etc...

@@ -1,0 +1,3 @@
+======  Dokutexit Selbsttest ======
+
+Durch Klicken auf die Schaltfäche ''Generate PDF'' kann der Vorgang zum Erzeugen eines PDF's getestet werden. Im Abschnitt ''Fuß'' kann ein ungültiges LaTex Kommando  (z.B.: ''\mybreakup'') eingegeben werden, um die LaTex Log-Dateien zu sehen und die tex Quelldatei herunterzuladen.

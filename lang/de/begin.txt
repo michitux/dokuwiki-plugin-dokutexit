@@ -1,0 +1,4 @@
+===== DokuTeXit Anfang/Kopf  =====
+
+Der Abschnitt Anfang/Kopf steuert alles vor dem LaTeX Kommando '''\begin{document}''' .
+Hier können Sie z.B. LaTeX Pakete einbinden.

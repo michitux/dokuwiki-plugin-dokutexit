@@ -1,0 +1,9 @@
+====== DokuTeXit Manager ======
+
+Gebruik deze velden om de instellingen van de DokuTeXit configuratie te regelen.\\  
+Voor hulp omtrent de afzonderlijke instellingen zie  [[http://danjer.doudouke.org/tech/dokuTeXit]].\\
+Voor meer details over deze plugin zie [[http://danjer.doudouke.org/tech/dokuTeXit]].
+
+Denk eraan op **Opslaan** te klikken voordat je de pagina verlaat, anders zijn je instellingen verdwenen.
+
+DokuTeXit genereert een Latex file op basis van de Dokuwiki-pagina. Je kunt deze layout veranderen door middel van deze velden.

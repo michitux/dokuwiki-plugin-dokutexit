@@ -1,0 +1,4 @@
+===== DokuTeXit Entities  =====
+Hier kun je de vertaling van eenheden (entities)  tussen Dokuwiki en Latex regelen.\\
+Volgorde is belangrijk!!
+ 

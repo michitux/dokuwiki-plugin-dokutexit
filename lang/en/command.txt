@@ -1,0 +1,4 @@
+===== Dokutexit Command  =====
+
+The ''Command'' part control LaTeX commands witch use by //TeXit// to generate the LaTeX file. You can add LaTeX newcommands that you can use in your document.
+

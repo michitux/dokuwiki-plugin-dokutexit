@@ -1,0 +1,4 @@
+====== Ebook ====
+Mit der Funktion Ebook können mehrere Bereiche des Dokuwiki's zusammen exportiert werden.
+
+FIXME : Diese Funktion ist bis dato noch nicht sehr ausgereift. 

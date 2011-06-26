@@ -1,0 +1,5 @@
+===== DokuTeXit Document  =====
+
+Het //Document// gedeelte regelt alles meteen na '''\begin{document}'''\\
+Hiermee kun je de layout van het begin van je document regelen. Je kunt de plaats van de  Inhoudsopgave regelen.
+

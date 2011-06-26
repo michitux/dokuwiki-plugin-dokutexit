@@ -1,0 +1,3 @@
+======  Dokutexit self test ======
+
+By clicking on ''Generate'' button you can test generation PDF process on your dokuwiki. You can add in ''Footer'' a latex command that do not exist (ex: ''\mybreakup'') to see latex logs and download tex source file.
