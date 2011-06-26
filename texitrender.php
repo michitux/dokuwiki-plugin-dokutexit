@@ -322,8 +322,8 @@ class texitrender_plugin_dokutexit {
   function pdffromdvi() {
     $tmp_dir = $this->_tmp_dir;
     if (eregi('WIN',PHP_OS)) {
-      if (isset($this->_dokutexit_conf['path'])) {
-	$cmdline = $this->_dokutexit_conf['path'] . '\\';
+      if ($this->_dokutexit_conf['path']) {
+	$cmdline = $this->_dokutexit_conf['path'] . DIRECTORY_SEPARATOR;
       } else {
 	$cmdline = '';
       }
@@ -331,8 +331,8 @@ class texitrender_plugin_dokutexit {
       $cmdline .= "-o " . $this->pdf['file'] . " ";
       $cmdline .= mediaFN('texit:tmp:'. $this->_pageid . '.dvi');
     } else {
-      if (isset($this->_dokutexit_conf['path'])) {
-	$cmdline = $this->_dokutexit_conf['path'] . '\\';
+      if ($this->_dokutexit_conf['path']) {
+	$cmdline = $this->_dokutexit_conf['path'] . DIRECTORY_SEPARATOR;
       } else {
 	$cmdline = '';
       }
