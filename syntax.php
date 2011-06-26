@@ -103,7 +103,7 @@ class syntax_plugin_dokutexit extends DokuWiki_Syntax_Plugin {
       switch ($substate) {
       case 'info':
 	if ($this->_texit->add_data($substate, $match)) {
-	  $renderer->doc = $this->_texit->render() . '<p>';
+	  $renderer->doc .= $this->_texit->render() . '<p>';
 	}
 	break;
       case 'footer':
